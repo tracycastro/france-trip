@@ -2,8 +2,10 @@
 content %}
 
 <article>
-  <a href="/">⬅️Back Home</a>
-  <p class="date">{{date}}</p>
+  <a class="home-link" href="/">← Back Home</a>
+  <p class="date">
+    <span>{{date}}</span> <span> {%- if time -%} {{ time }} {%- endif %}</span>
+  </p>
   <h1 style="margin-block-start: 0">{{ title }}</h1>
 
   <div class="blog-body">{{ content | safe }}</div>
