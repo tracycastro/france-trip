@@ -8,3 +8,6 @@ layout: layouts/post.html
 Hello, Ella!
 
 This is our first post to see if it's working. :)
+git
+
+Trying to get a new subdomain.
