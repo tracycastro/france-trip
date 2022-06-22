@@ -1,0 +1,73 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+:root {
+  --color-text: #222;
+  --color-gray: #888;
+  --color-link: #613673;
+  --space-5: 96px;
+  --space-4: 48px;
+  --space-3: 24px;
+  --space-2: 16px;
+  --space-1: 8px;
+  --font-size-small: 14px;
+  --monospace: ui-monospace, SFMono-Regular, monospace;
+  --sans: questa-sans, ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --serif: filosofia, ui-serif, system-ui, serif;
+}
+
+html {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-weight: 400;
+  font-style: normal;
+  padding: 0 0 var(--space-5) 0;
+  margin: 0;
+  font: clamp(1.2rem, 3vw, 1.3rem) / 1.35 var(--sans);
+  color: var(--text);
+  font-variant-numeric: oldstyle-nums;
+}
+body p {
+  hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
+  hyphenate-limit-lines: 2;
+  hyphenate-limit-last: always;
+  hyphenate-limit-zone: 8%;
+}
+body a {
+  color: var(--color-link);
+}
+
+h1,
+h2 {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-style: normal;
+}
+h1 {
+  font-size: clamp(2rem, 3vw, 2.8rem);
+  line-height: 1.2;
+}
+h2 {
+  font-size: clamp(1.6rem, 2.4vw, 2rem);
+  line-height: 1.2;
+}
+
+img,
+iframe,
+video,
+figure {
+  max-width: 100%;
+}
+
+main {
+  width: min(95%, 50ch);
+  margin-inline: auto;
+  margin-top: var(--space-3);
+}

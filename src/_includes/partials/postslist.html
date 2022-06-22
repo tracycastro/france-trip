@@ -1,0 +1,9 @@
+<ul class="posts-list">
+  {% for post in collections.posts | reverse %}
+  <li>
+    <p class="date">{{post.data.date}}</p>
+    <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    <p class="excerpt">{{ post.data.excerpt}}</p>
+  </li>
+  {% endfor %}
+</ol>

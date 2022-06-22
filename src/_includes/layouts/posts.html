@@ -1,0 +1,6 @@
+{% extends "layouts/base.html" %} {% set pageHeaderTitle = title %} {% block
+content %}
+
+<h1>Posts</h1>
+{% set postslist = collections.posts %} {% include "partials/postslist.html" %}
+{% endblock %}

@@ -1,0 +1,12 @@
+{% extends "layouts/base.html" %} {% set pageHeaderTitle = title %} {% block
+content %}
+
+<article>
+  <a href="/">⬅️Back Home</a>
+  <p class="date">{{date}}</p>
+  <h1 style="margin-block-start: 0">{{ title }}</h1>
+
+  <div class="blog-body">{{ content | safe }}</div>
+</article>
+
+{% endblock %}
