@@ -25,7 +25,7 @@ The Venus de Milo(!)
 ![Napoleon III's residences](/images/Day-4/louvre-4.jpeg)
 ![Napoleon III's residences](/images/Day-4/louvre-5.jpeg)
 ![Napoleon III's residences](/images/Day-4/napoleon-throne.jpeg)
-Napoleon III's residences, igitncluding his monogrammed throne ☝️.
+Napoleon III's residences, including his monogrammed throne ☝️.
 
 ![The Mona Lisa](/images/Day-4/mona-lisa.jpeg)
 This is not a good photo of the Mona Lisa. Google will give you a much better image. But this is so we can remember that we were there in person once. Pretty cool!
