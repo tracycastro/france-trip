@@ -10,7 +10,7 @@ layout: layouts/post.html
 Hello! Today we visited [the Louvre](https://www.louvre.fr/en), the famous art museum and former palace. With the help of a tour guide, we went from Greek antiquities all the way through to the apartments of Napoleon III - in four hours! I was too saturated to take in any more information by the end, but then again we didn't see even a fraction of the art here. So much art! We breezed past several works I remember from Art History.
 
 ![The Louvre in Paris](/images/Day-4/louvre-3.jpeg)
-I especially love the glass pyramid in the coutyard, designed by IM Pei in 1989. I was in high school when this opened, and even from Dallas I heard about the controversy of adding something so modern to a historical place.
+I especially love the glass pyramid in the coutyard, designed by IM Pei in 1989. I was in high school when this opened, and even from Dallas I heard about the controversy of adding something so modern to such a historical place.
 
 ![Psyché ranimée par le baiser de l’Amour](/images/Day-4/psyche.jpeg)
 This statue is called "Psyché ranimée par le baiser de l’Amour" (Psyche revived by Cupid's kiss).
