@@ -25,13 +25,13 @@ The Venus de Milo(!)
 ![Napoleon III's residences](/images/Day-4/louvre-4.jpeg)
 ![Napoleon III's residences](/images/Day-4/louvre-5.jpeg)
 ![Napoleon III's residences](/images/Day-4/napoleon-throne.jpeg)
-Napoleon III's residences, including his monogrammed throne ☝️.
+Napoleon III's residences, igitncluding his monogrammed throne ☝️.
 
 ![The Mona Lisa](/images/Day-4/mona-lisa.jpeg)
 This is not a good photo of the Mona Lisa. Google will give you a much better image. But this is so we can remember that we were there in person once. Pretty cool!
 
 ![Pâtisserie des Martyrs](/images/Day-4/lunch.jpeg)
-We had lunch at this sweet restaurant. It's my favorite restaurant in France so far. I had a delicious salade. Even though Duolingo tells me I've been practicing French 220 days in a row, just ordering in restaurants in still pretty challenging. Ofter when I ask for something in French, the person I'm talking to replies in English. The server at this patisserie did not speak much English though, and also didn't understand my broken French very well. He asked if I wanted a pastry with grapefruit which sounded intriguing, so I said yes. But he brought a brioche bun with raisins. Ha ha! I guess raisins come from grapes, which could be confused with grapefruit? I thought it was pretty funny and even though I don't usually like raisins, my pastry was very delicious.
+We had lunch at this sweet restaurant, Pâtisserie des Martyrs. It's my favorite restaurant in France so far. I had a delicious salade. Even though Duolingo tells me I've been practicing French 220 days in a row, just ordering in restaurants in still pretty challenging. Ofter when I ask for something in French, the person I'm talking to replies in English. The server at this patisserie did not speak much English though, and also didn't understand my broken French very well. He asked if I wanted a pastry with grapefruit which sounded intriguing, so I said yes. But he brought a brioche bun with raisins. Ha ha! I guess raisins come from grapes, which could be confused with grapefruit? I thought it was pretty funny and even though I don't usually like raisins, my pastry was very delicious.
 
 Here are some more photos from our sweet lunch:
 ![Pâtisserie des Martyrs](/images/Day-4/lunch2.jpeg)
