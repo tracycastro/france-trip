@@ -18,3 +18,5 @@ This is from our walk from the cooking class to the museum.
 ![Monet's Water Lilies](/images/Day-6/water-lilies-close.jpeg)
 ![Monet's Water Lilies](/images/Day-6/water-lily.jpeg)
 Monet's Water Lilies (Nymphéas) at the Musée de l'Orangerie.
+[![video of eiffel tower from the train](/images/Day-6/eiffle-video.jpg)](https://youtube.com/shorts/Nf0v8c77qoI)
+Click on this image ☝️ to see our video of the Eiffel Tower from our train this afternoon. :)
