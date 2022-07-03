@@ -17,14 +17,14 @@ This is with our awesome tour guide, Pascale. 👆
 ![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-10.jpeg)
 ![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-11.jpeg)
 ![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-12.jpeg)
-The Jean-Jacques Rousseau fountain in the Square de l'Évêché
+The Jean-Jacques Rousseau fountain in the Square de l'Évêché 👆
+
 ![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-16.jpeg)
 ![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-17.jpeg)
 ![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-7.jpeg)
 
 A few photos of Annecy Castle: 👇
 ![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-13.jpeg)
-![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-14.jpeg)
 ![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-14.jpeg)
 ![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-15.jpeg)
 
