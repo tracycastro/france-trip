@@ -112,9 +112,21 @@
       strong {
         font-weight: 900;
       }
+      .excerpt span {
+        text-decoration: line-through;
+      }
     </style>
   </head>
   <body>
     <main>{% block content %}{% endblock %}</main>
+    <script>
+      const excerpts = document.querySelectorAll('.excerpt');
+      excerpts.forEach(function (excerpt) {
+        const excerptText = excerpt.innerHTML;
+        if (excerptText == 'Avignon') {
+          excerpt.innerHTML = '<span>Avignon</span> Aix-en-Provence';
+        }
+      });
+    </script>
   </body>
 </html>
