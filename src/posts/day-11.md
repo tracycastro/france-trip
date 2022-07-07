@@ -1,27 +1,33 @@
 ---
-title: 'Day 12 & 13'
-date: '2022-07-04'
-excerpt: 'Avignon'
+title: 'Day 11'
+date: '2022-07-02'
+excerpt: "Château d'Annecy and Old Town"
 layout: layouts/post.html
 ---
 
-![train station in Annecy France](/images/day-13/IMG_0347.jpeg)
-![train station in Annecy France](/images/day-13/IMG_0348.jpeg)
-Day 12 turned into a series of misadventures, but it all worked out in the end!
-The photos above are of the train station in Annecy, when things were still going according to plan. Our train dropped us off in Avignon right on schedule. A driver from our travel agency met us on the platform and dropped us off at our hotel, also just as planned. But this is where the trouble started. The travel agency had us booked for the wrong day! The hotel was completely booked and since tourism is way up in France this summer, all the other hotels in Avignon were also booked. There we were stranded in Avignon with our heavy suitcases, and no where to sleep. We were frantically calling the emergency number for the travel agency, but no one was picking up. We were texting our agent back in Austin, but all she could do was wait on hold just like we were.
+Here are some photos of our walking tour around [Château d'Annecy](https://musees.annecy.fr/eng/Annecy-Castle) and the [Old Town of Annecy](https://en.lac-annecy.com/must-sees/the-old-town-of-annecy/). The oldest part of the castle was constructed in the 13th century.
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-1.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-3.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-2.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-4.jpeg)
+This is with our awesome tour guide, Pascale. 👆
 
-Thankfully, Eli was able to book us a room in nearby Aix-en-Provence. (Go, Eli! 🎉), just over an hour away. Our next problem: we did not have a way to get there. Ubers in France have been hard to come by. No one wanted to take us because they would only be paid for the hour to drive there, not the hour it would take them to get back. We finally found an Uber driver willing to take us if we paid extra. Yay! When we finally arrived in Aix, we were relieved and exhaused and just wanted to go to bed!
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-5.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-6.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-10.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-11.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-12.jpeg)
+The Jean-Jacques Rousseau fountain in the Square de l'Évêché 👆
 
----
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-16.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-17.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-7.jpeg)
 
-On Day 13, we missed our scheduled tour of Provence and the Luberon back in Avignon, but managed to relax and have a nice time anyway. Aix is the birthplace and home of Paul Cézanne. We walked a little over a mile from our hotel to visit his studio. It turned out to be a very steep walk in very hot weather! We were very happy to arrive and see the studio and the little clearing with a view of [Mont Sainte-Victoire](<https://en.wikipedia.org/wiki/Mont_Sainte-Victoire_(C%C3%A9zanne)>), the subject of a series of Cézanne paintings.
+A few photos of Annecy Castle: 👇
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-13.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-14.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-15.jpeg)
 
-Here are some photos of our visit to the studio, and the clearing:
-![studio of Paul Cézanne in Aix-en-Provence France](/images/day-13/cezanne-1.jpeg)
-![studio of Paul Cézanne in Aix-en-Provence France](/images/day-13/cezanne-2.jpeg)
-![studio of Paul Cézanne in Aix-en-Provence France](/images/day-13/cezanne-4.jpeg)
-![studio of Paul Cézanne in Aix-en-Provence France](/images/day-13/cezanne-5.jpeg)
-![studio of Paul Cézanne in Aix-en-Provence France](/images/day-13/cezanne-6.jpeg)
-![studio of Paul Cézanne in Aix-en-Provence France](/images/day-13/cezanne.jpeg)
-
-Yay for keeping our adventure attitidue and for stressful days with happy endings!
+Before dinner, we had to find a laundromat (laverie). It was a fun challenge to follow the instructions and figure out how to pay and operate the washer and dryer - all in French.
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-8.jpeg)
+![tourist photos of Annecy Castle and old town](/images/Day-11/annecy-9.jpeg)
